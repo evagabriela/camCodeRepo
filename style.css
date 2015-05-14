@@ -21,10 +21,9 @@ background-color: #fff; /* If you change this color, you will also need to chang
 #header  {
 width: 1000px;
 height: 210px;
-position: relative;
+position: center;
 /* background-color: #B9C7D4; */ /* If you'd rather have a solid background color instead of an image, remove the comment-out tags from this attribute and change the #B9C7D4 hex color to whatever color you'd like.  Then remove or comment-out the next two lines that start with background-image and background-repeat.  Check the headers folder inside the images folder for more header images you can use.  Feel free to create your own with Paint.net or Photoshop.  Try to make them 210 pixels high and 1000 pixels wide so they fit best. */
-background-image: url(images/headers/blackAndGoldCar.jpg);   
-background-repeat: repeat-x;
+background-image: url(http://upload.wikimedia.org/wikipedia/commons/0/0f/2013-03-05_Geneva_Motor_Show_7846.JPG);   
 } 
 
 
